@@ -44,6 +44,7 @@ app/
 │       ├── activity_main.xml
 
 │       └── activity_tela2.xml
+
 │
 └── AndroidManifest.xml
 
